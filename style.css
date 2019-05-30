@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: sans-serif;
+}
+
+.site-nav {
+    background-color: #cff8b7;
+    padding: 10px;
+    margin: 20px 0;
+}
